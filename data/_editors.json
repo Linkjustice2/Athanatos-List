@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Athantos",
+        "link": "https://www.youtube.com/watch?v=hJKMk64treM"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Athanaadmin",
+        "link": "https://www.youtube.com/watch?v=hJKMk64treM"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Athanahelper",
+        "link": "https://www.youtube.com/watch?v=hJKMk64treM"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Trial List Helper Athanatos version",
+        "link": "https://www.youtube.com/watch?v=hJKMk64treM"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Athanatos Coder",
+        "link": "https://www.youtube.com/watch?v=hJKMk64treM"
     }
 ]
